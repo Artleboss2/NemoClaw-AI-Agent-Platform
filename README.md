@@ -73,25 +73,33 @@ nemoclaw/
   examples/
   docs/
   tests/
-Quickstart
+```
 
 Quickstart
-1. Clone the repo
-bash
+1. Clone the repo 
+```bash
 git clone https://github.com/yourname/nemoclaw.git
+```
+```bash
 cd nemoclaw
-2. Create a virtual environment
-bash
+```
+3. Create a virtual environment
+```bash
 python -m venv .venv
+```
+```bash
 source .venv/bin/activate
-3. Install dependencies
-bash
+```
+5. Install dependencies
+```bash
 pip install -e .
-4. Run the API
-bash
+```
+6. Run the API
+```bash
 uvicorn nemoclaw.api.main:app --reload
-5. Submit a task
-bash
+```
+7. Submit a task
+```bash
 curl -X POST http://localhost:8000/tasks \
   -H "Content-Type: application/json" \
   -d '{
@@ -102,7 +110,7 @@ curl -X POST http://localhost:8000/tasks \
       "user_id": "u_123"
     }
   }'
-
+```
 Design principles
 Default-deny tool permissions
 
