@@ -1,10 +1,10 @@
 <div align=center>
 # NemoClaw-AI-Agent-Platform
 NemoClaw — NVIDIA's Open-Source Enterprise AI Agent Platform
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Python](https://img.shields.io/badge/Python-3.9+-green.svg)](https://www.python.org/)
-[![Status](https://img.shields.io/badge/Status-Early_Preview-orange.svg)]()
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)(https://opensource.org/licenses/Apache-2.0)
+![Python](https://img.shields.io/badge/Python-3.9+-green.svg)](https://www.python.org/)
+![Status](https://img.shields.io/badge/Status-Early_Preview-orange.svg)]()
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 # NemoClaw
 
