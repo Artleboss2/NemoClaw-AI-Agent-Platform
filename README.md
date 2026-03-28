@@ -119,6 +119,7 @@ curl -X POST http://localhost:8000/tasks \
     }
   }'
 ```
+```plaintext
 Design principles
 Default-deny tool permissions
 
@@ -152,3 +153,4 @@ Early developer preview.
 
 License
 Apache-2.0
+```
